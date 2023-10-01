@@ -62,7 +62,7 @@ section .title::before{
     left: 50%;
     width: 200px;
     height: 3px;
-    margin: 20px;
+    margin: 80px;
     background: #111;
     transform: translateX(-50%);
 }
