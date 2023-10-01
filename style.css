@@ -249,7 +249,7 @@ section .title::after{
     background-color: #fff;
 }
 .skills .title::after{
-    content: "some of my gaming skills";
+    content: "my gaming skills";
     background-color: #111;
 }
 .skills .skills-content .column{
