@@ -19,7 +19,7 @@ html{
     background: crimson;
 }
 ::-webkit-scrollbar-thumb {
-    background: crimson;
+    background: #fff;
 }
 
 ::-webkit-scrollbar-thumb:hover {
