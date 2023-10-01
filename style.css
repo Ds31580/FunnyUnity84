@@ -23,7 +23,7 @@ html{
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background: crimson;
 }
 
 /* all similar content styling codes */
@@ -62,6 +62,7 @@ section .title::before{
     left: 50%;
     width: 200px;
     height: 3px;
+    margin: 20px;
     background: #111;
     transform: translateX(-50%);
 }
